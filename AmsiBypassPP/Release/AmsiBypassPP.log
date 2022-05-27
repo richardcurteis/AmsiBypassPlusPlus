@@ -1,0 +1,11 @@
+﻿  AmsiBypassPP.cpp
+C:\Users\dev-admin\source\repos\AmsiBypassPP\AmsiBypassPP\patchless_amsi.h(35,22): warning C4244: '=': conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+C:\Users\dev-admin\source\repos\AmsiBypassPP\AmsiBypassPP\patchless_amsi.h(59,22): warning C4244: '=': conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+C:\Users\dev-admin\source\repos\AmsiBypassPP\AmsiBypassPP\patchless_amsi.h(62,22): warning C4244: '=': conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+C:\Users\dev-admin\source\repos\AmsiBypassPP\AmsiBypassPP\patchless_amsi.h(85,23): warning C4244: '=': conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+  download.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 239 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AmsiBypassPP.vcxproj -> C:\Users\dev-admin\source\repos\AmsiBypassPP\Release\AmsiBypassPP.exe
